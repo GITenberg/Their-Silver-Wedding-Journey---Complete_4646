@@ -1,0 +1,33 @@
+_repo: Their-Silver-Wedding-Journey---Complete_4646
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Howells, William Dean
+    aliases:
+    - Howells, W. D. (William Dean)
+    - Howells, William D. (William Dean)
+    birthdate: 1837
+    deathdate: 1920
+    gutenberg_agent_id: '97'
+    url: http://www.gutenberg.org/2009/agents/97
+    wikipedia: http://en.wikipedia.org/wiki/William_Dean_Howells
+description: Author of the beloved novel The Rise of Silas Lapham, William Dean Howells
+  is known as one of the foremost practitioners of the literary style known as realism.
+  In Their Silver Wedding Journey, Howells provides a coda to his earlier novel, Their
+  Wedding Journey, filling readers in on how the ensuing years have changed and shaped
+  the couple at the center of both books, the Marches.
+gutenberg_issued: '2004-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4646'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Transatlantic voyages -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Americans -- Europe -- Fiction'
+- GITenberg
+title: Their Silver Wedding Journey — Complete
+url: http://www.gutenberg.org/ebooks/4646
