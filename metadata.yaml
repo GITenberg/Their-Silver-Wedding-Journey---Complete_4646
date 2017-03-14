@@ -1,5 +1,8 @@
 _repo: Their-Silver-Wedding-Journey---Complete_4646
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Howells, William Dean
@@ -16,6 +19,8 @@ description: Author of the beloved novel The Rise of Silas Lapham, William Dean 
   In Their Silver Wedding Journey, Howells provides a coda to his earlier novel, Their
   Wedding Journey, filling readers in on how the ensuing years have changed and shaped
   the couple at the center of both books, the Marches.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4646#Their-Silver-Wedding-Journey---Complete
 gutenberg_issued: '2004-10-23'
 gutenberg_type: Text
 identifiers:
